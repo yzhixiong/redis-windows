@@ -1,4 +1,3 @@
-### [English](https://github.com/yzhixiong/redis-windows/blob/main/README.md) | [简体中文](https://github.com/yzhixiong/redis-windows/blob/main/README.zh_CN.md)
 
 # Redis Windows版本
 
